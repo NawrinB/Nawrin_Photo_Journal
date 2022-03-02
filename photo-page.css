@@ -647,7 +647,7 @@
 
 .u-section-5 .u-gallery-inner-1 {
   grid-template-columns: auto auto auto;
-  grid-gap: 0px 0px;
+  grid-gap: 30px 30px;
 }
 
 .u-section-5 .u-gallery-item-1 {
@@ -769,7 +769,6 @@
 
   .u-section-5 .u-gallery-inner-1 {
     grid-template-columns: auto auto;
-    grid-gap: 30px 30px;
   }
 }
 
